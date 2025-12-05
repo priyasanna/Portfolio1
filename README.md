@@ -1,173 +1,233 @@
-# Automation Test Engineer Portfolio
+# Lakshmipriya Solai - Quality Engineer Portfolio
 
 ## 👨‍💻 Professional Summary
 
-Experienced **Automation Test Engineer** with **8 years of comprehensive expertise** in both **Manual and Automation Testing**. Specialized in end-to-end test automation using **Playwright**, with a proven track record of designing, developing, and maintaining robust test frameworks that ensure high-quality software delivery across web applications.
+**ISTQB Certified Quality Engineer** with **8+ years of experience** in Quality Engineering, test automation, and data validation. Specialized in designing and implementing scalable automation frameworks using **Playwright** and executing comprehensive testing strategies across web, mobile, and backend systems. Proven track record of blending technical expertise with business insight to drive quality improvements, reduce manual effort, and accelerate release cycles.
 
-Passionate about implementing best practices in test automation, CI/CD integration, and quality assurance processes. Strong background in Agile/Scrum methodologies with hands-on experience in test strategy development, test case design, and defect management.
+**Location:** Atlanta, GA  
+**Email:** nm.priya.84@gmail.com  
+**Phone:** (678) 335-6286  
+**LinkedIn:** [linkedin.com/in/lakshmipriya-solai-49bb7250](https://linkedin.com/in/lakshmipriya-solai-49bb7250)
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 Objective
 
-### Testing Expertise
-- **Manual Testing**: Test case design, execution, and defect tracking
-- **Automation Testing**: Framework development, script maintenance, and optimization
-- **Test Strategy & Planning**: Test plan creation, risk assessment, and coverage analysis
-- **API Testing**: RESTful API validation and integration testing
-- **Cross-browser & Cross-platform Testing**: Ensuring compatibility across multiple environments
-- **Performance Testing**: Basic load and performance validation
-- **Mobile Testing**: Web application testing on mobile devices
-
-### Technical Skills
-
-#### Test Automation Tools & Frameworks
-- **Playwright** (Primary expertise)
-- Selenium WebDriver
-- TestNG / Jest / Mocha
-- Page Object Model (POM) design pattern
-- Data-driven and keyword-driven testing
-
-#### Programming Languages
-- JavaScript / TypeScript
-- Java
-- Python
-- SQL
-
-#### CI/CD & DevOps
-- GitHub Actions
-- Jenkins
-- Azure DevOps
-- Git version control
-
-#### Testing Tools & Technologies
-- Postman / REST Assured (API Testing)
-- JIRA / Azure DevOps (Test Management)
-- TestRail / Zephyr (Test Case Management)
-- Browser DevTools
-- Charles Proxy / Fiddler
-
-#### Additional Skills
-- Agile/Scrum methodologies
-- Test reporting and metrics
-- Code review and best practices
-- Test data management
-- Continuous Integration/Continuous Deployment
+To leverage my 8+ years of experience in Quality Engineering, test automation, and data validation to enhance software quality, improve testing efficiency, and contribute to a collaborative Agile environment that values innovation and continuous improvement.
 
 ---
 
 ## 💼 Professional Experience
 
-### 8 Years of Testing Excellence
+### Quality Engineer | Transport4 | Atlanta, GA
+**Aug 2017 – Nov 2025** (8+ years)
 
-**Key Achievements:**
-- Designed and implemented scalable test automation frameworks using Playwright
-- Reduced regression testing time by **70%** through strategic automation
-- Achieved **95%+ test automation coverage** for critical user journeys
-- Mentored junior QA engineers in automation best practices
-- Collaborated with cross-functional teams to establish quality gates in CI/CD pipelines
-- Led test automation initiatives for multiple enterprise-level applications
+**Key Responsibilities & Achievements:**
+- Performed end-to-end manual testing including functional, regression, smoke, exploratory, mobile (Android/iOS), system integration, and UAT testing to validate key business workflows and production readiness
+- Led requirements analysis and test planning; created detailed manual test cases, test scripts, test scenarios, and traceability matrices aligned with business rules and acceptance criteria
+- Contributed heavily to test automation framework development using **Playwright** (C#/.NET & TypeScript) to optimize regression and reduce manual effort
+- Enhanced and maintained Playwright POM framework by building reusable utilities, custom loggers, selectors library, data-driven utilities, and reporting integrations
+- Designed manual and automated scenarios to validate critical UI and API flows, improving coverage and reducing release risks
+- Authored automation scripts using **C#**, **TypeScript**, **JavaScript**, and **SQL**, supporting regression automation, data setup, backend validations, log analysis, and workflow simulation
+- Conducted API testing manually using **Postman**, and automated API workflows using Playwright in C# & TypeScript, enabling faster service-level validation
+- Supported CI/CD pipelines using **Azure DevOps** and **GitHub Actions**, ensuring automation tests run reliably across staging environments
+- Performed test metrics analysis, tracked defect trends using Jira/Azure Boards, and collaborated closely with Developers, Product Owners, and BAs to resolve issues quickly
+- Contributed to release readiness decisions by performing test estimations, assessing risks, validating fixes, and ensuring full regression coverage
+- Leveraged AI tools such as **GitHub Copilot**, **Cursor**, **Claude**, and **Tachyon GPT** to accelerate scripting, enhance defect detection, and improve overall productivity
 
-**Responsibilities:**
-- Develop and maintain automated test suites for web applications
-- Create comprehensive test plans and test cases for manual testing
-- Execute functional, regression, and smoke test suites
-- Identify, document, and track defects through resolution
-- Collaborate with developers and product managers to ensure quality deliverables
-- Participate in sprint planning, daily standups, and retrospectives
-- Generate test reports and metrics for stakeholders
-- Continuously improve test processes and automation frameworks
+**Environment:** Playwright, Selenium, Protractor, TypeScript, JavaScript, Java, SQL Server, Postman, Jenkins, Azure DevOps, GitHub Actions, Docker, AWS, Azure, Cucumber, JIRA, Confluence, Agile (Scrum/Kanban)
 
 ---
 
-## 🛠️ Technical Projects & Expertise
+### Quality/Data Engineer | SPH Analytics | Duluth, GA
+**Mar 2016 – Jul 2017** (1.5 years)
 
-### Playwright Automation Framework
-- Built robust end-to-end test automation frameworks using Playwright
-- Implemented Page Object Model (POM) for maintainable test code
-- Configured parallel test execution for faster feedback
-- Integrated with CI/CD pipelines for automated test runs
-- Created custom utilities and helper functions for test data management
-- Implemented visual regression testing and screenshot comparison
+**Key Responsibilities & Achievements:**
+- Developed and optimized SQL queries and stored procedures, improving backend validation and reporting accuracy
+- Created and executed end-to-end test plans covering functional, regression, and UAT phases
+- Programmed and validated internet survey scripts and data pipelines, enhancing call center operational efficiency
+- Participated in Agile ceremonies—sprint retrospectives, backlog grooming, and defect triage—to strengthen delivery consistency and collaboration
+- Coordinated across QA, Development, and Product teams to deliver stable, high-quality releases
 
-### Test Automation Best Practices
-- **Framework Architecture**: Modular, scalable, and maintainable test frameworks
-- **Test Data Management**: Externalized test data for data-driven testing
-- **Reporting**: Comprehensive test reports with screenshots and videos
-- **Error Handling**: Robust error handling and retry mechanisms
-- **Cross-browser Testing**: Automated testing across Chrome, Firefox, Safari, and Edge
-- **Mobile Testing**: Responsive design validation and mobile browser testing
+**Environment:** VB Script, PL/SQL, MS SQL Server, Toad, JIRA, TFS, Noble Systems, Agile Scrum/Kanban
 
 ---
 
-## 📊 Skills Matrix
+## 🛠️ Technical Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Test Automation** | Playwright, Selenium, TestNG, Jest |
-| **Languages** | JavaScript, TypeScript, Java, Python |
-| **CI/CD** | GitHub Actions, Jenkins, Azure DevOps |
-| **Test Management** | JIRA, TestRail, Zephyr |
-| **API Testing** | Postman, REST Assured |
-| **Version Control** | Git, GitHub, GitLab, Bitbucket |
-| **Databases** | SQL, MySQL, PostgreSQL |
-| **Methodologies** | Agile, Scrum, Kanban |
+### Testing & QA Expertise
+- **Test Strategy & Planning**: Requirements analysis, test planning, test case design, traceability matrices
+- **Manual Testing**: Functional, Regression, Smoke, Exploratory, System Integration, UAT Testing
+- **Automation Testing**: Framework development, script maintenance, POM design pattern
+- **Mobile Testing**: Android/iOS application testing
+- **API Testing**: Manual and automated API validation using Postman and Playwright
+- **AI/ML Model Validation**: AI-Based Testing, AI/ML model validation
+- **Backend Testing**: SQL-based data validation, stored procedures, log analysis
+
+### Test Automation Tools & Frameworks
+- **Playwright** (Primary expertise - C#/.NET & TypeScript)
+- **Selenium WebDriver**
+- **Protractor**
+- **Cucumber** (BDD)
+- **Page Object Model (POM)** design pattern
+- Data-driven and keyword-driven testing
+
+### Programming Languages
+- **TypeScript** (Expert)
+- **JavaScript** (Expert)
+- **C#** (Proficient)
+- **Java** (Proficient)
+- **SQL** (Expert - MS SQL Server)
+- **VB Script** (Proficient)
+
+### CI/CD & DevOps
+- **Azure DevOps** (ADO)
+- **GitHub Actions**
+- **Jenkins**
+- **Docker**
+- **Git** version control
+
+### Testing Tools & Technologies
+- **Postman** (API Testing)
+- **JIRA** / **Azure Boards** (Test Management & Defect Tracking)
+- **Confluence** (Documentation)
+- **TFS** (Team Foundation Server)
+- Browser DevTools
+
+### Cloud & Platforms
+- **AWS** Cloud Environment
+- **Azure** Cloud Platform
+- **Docker** containerization
+
+### AI-Powered Tools
+- **GitHub Copilot**
+- **Cursor**
+- **Claude**
+- **Tachyon GPT**
+
+### Methodologies
+- **Agile** (Scrum/Kanban)
+- **SDLC**
+- **AI-Driven Development**
+- Test estimation and risk assessment
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Education
 
-- Relevant QA/Automation Testing Certifications
-- Continuous learning in latest testing tools and methodologies
-- Active participation in testing communities and forums
+**Bachelor of Science in Computer Science**
 
 ---
 
-## 📈 Key Metrics & Achievements
+## 🏆 Certifications
 
-- **8 years** of hands-on testing experience
-- **70%+ reduction** in regression testing time through automation
-- **95%+ automation coverage** for critical user flows
-- **100+ automated test cases** developed and maintained
-- Successfully delivered **50+ releases** with zero critical defects in production
-- Mentored **10+ junior QA engineers** in automation practices
+- **ISTQB Certified Tester – Foundation Level** (2023)
+- **ISTQB Agile Tester** (April 2024)
+- **ISTQB Test Automation Engineer** (September 2025)
+
+---
+
+## 💡 Key Expertise Summary
+
+### Testing & QA
+- Test Strategy & Planning
+- Functional, Regression & UAT Testing
+- Automation Framework Development
+- Mobile Testing (Android/iOS)
+- AI/ML Model Validation
+- AI-Based Testing
+
+### Tools & Technologies
+- **Playwright** (C#/.NET & TypeScript)
+- **Selenium**
+- **Cucumber** (BDD)
+- **Postman**
+- **GitHub**
+- **JIRA**
+- **Azure DevOps** (ADO)
+- **Docker**
+- **CI/CD** pipelines
+
+### Programming & Databases
+- **JavaScript**
+- **TypeScript**
+- **C#**
+- **SQL** (MS SQL Server)
+
+### Methodologies & Platforms
+- **Agile** (Scrum/Kanban)
+- **SDLC**
+- **AI-Driven Development**
+- **AWS** Cloud Environment
+
+---
+
+## 🚀 Notable Achievements
+
+- **8+ years** of comprehensive Quality Engineering experience
+- **ISTQB Triple Certified** (Foundation, Agile, Test Automation)
+- Successfully developed and maintained **Playwright automation frameworks** in both C#/.NET and TypeScript
+- Enhanced test automation efficiency through **AI-powered tools** (GitHub Copilot, Cursor, Claude, Tachyon GPT)
+- Strong expertise in **SQL** with advanced query optimization and stored procedure development
+- Proven experience in **CI/CD integration** with Azure DevOps and GitHub Actions
+- Extensive experience in **cross-platform testing** (Web, Mobile - Android/iOS, API)
+- Collaborative team player with experience in **Agile methodologies** and cross-functional team coordination
+
+---
+
+## 📊 Technical Projects & Contributions
+
+### Playwright Automation Framework Development
+- Built robust end-to-end test automation frameworks using Playwright in both **C#/.NET** and **TypeScript**
+- Implemented **Page Object Model (POM)** for maintainable and scalable test code
+- Created reusable utilities, custom loggers, selectors library, and data-driven utilities
+- Integrated reporting solutions for comprehensive test results
+- Configured parallel test execution for faster feedback cycles
+
+### API Testing & Automation
+- Automated API workflows using Playwright in C# & TypeScript
+- Conducted manual API testing using Postman
+- Validated service-level functionality and integration points
+
+### CI/CD Integration
+- Integrated automation tests into CI/CD pipelines using Azure DevOps and GitHub Actions
+- Ensured reliable test execution across staging environments
+- Automated regression testing in deployment pipelines
+
+### SQL & Backend Validation
+- Developed and optimized SQL queries and stored procedures
+- Performed backend data validation and log analysis
+- Enhanced reporting accuracy through database testing
 
 ---
 
 ## 🔗 Connect & Collaborate
 
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
-- **Portfolio**: [Your Portfolio Website]
+- **LinkedIn:** [linkedin.com/in/lakshmipriya-solai-49bb7250](https://linkedin.com/in/lakshmipriya-solai-49bb7250)
+- **Email:** nm.priya.84@gmail.com
+- **Phone:** (678) 335-6286
+- **Location:** Atlanta, GA
 
 ---
 
-## 📝 Recent Projects
+## 📝 What I Bring to the Table
 
-### Project Highlights
-- **E-commerce Platform Testing**: End-to-end automation for checkout, payment, and order management flows
-- **SaaS Application Testing**: Comprehensive test suite for multi-tenant web application
-- **API Testing Framework**: Automated API validation and integration testing
-- **Mobile Web Testing**: Cross-device testing for responsive web applications
-
----
-
-## 🚀 What I Bring to the Table
-
-✅ **8 years of proven experience** in both manual and automation testing  
-✅ **Expert-level proficiency** in Playwright for modern web application testing  
-✅ **Strong foundation** in test strategy, planning, and execution  
-✅ **Agile mindset** with experience in fast-paced development environments  
-✅ **Problem-solving skills** with a focus on quality and efficiency  
-✅ **Collaborative approach** with excellent communication skills  
-✅ **Continuous learner** staying updated with latest testing trends and tools  
+✅ **8+ years of proven experience** in Quality Engineering and Test Automation  
+✅ **ISTQB Triple Certified** (Foundation, Agile, Test Automation)  
+✅ **Expert-level proficiency** in Playwright (C#/.NET & TypeScript)  
+✅ **Strong SQL expertise** with advanced database validation skills  
+✅ **AI-powered testing** experience with modern tools (GitHub Copilot, Cursor, Claude)  
+✅ **CI/CD integration** expertise with Azure DevOps and GitHub Actions  
+✅ **Comprehensive testing** across Web, Mobile (Android/iOS), and API platforms  
+✅ **Agile mindset** with proven experience in Scrum/Kanban methodologies  
+✅ **Problem-solving skills** with focus on quality, efficiency, and continuous improvement  
+✅ **Collaborative approach** with excellent cross-functional team coordination  
 
 ---
 
 ## 📧 Let's Connect
 
-Open to discussing automation testing opportunities, collaboration on testing projects, or sharing knowledge about Playwright and test automation best practices.
+Open to discussing Quality Engineering opportunities, test automation projects, or sharing knowledge about Playwright, test automation best practices, and AI-powered testing tools.
 
 **Ready to elevate your testing strategy? Let's talk!**
 
